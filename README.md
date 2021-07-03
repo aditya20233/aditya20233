@@ -3,7 +3,7 @@
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/aditya-lodhi-bb2212189/)
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="25px">](aditya.lodhi.cd.civ19@itbhu.ac.in)
-[<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/adityalodhi/)
+<!-- [<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/adityalodhi/) -->
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <!---![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)--->
-- 🛢 &nbsp;
+
 <!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) -->
 - ⚙️ &nbsp;
