@@ -1,5 +1,5 @@
 <h1 align="center">😉 Hey! There.</h1>
-<h3 align="center">This is Aditya Lodhi</h3>
+<h3 align="center">This is Aditya</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/aditya-lodhi-bb2212189/)
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="25px">](mailto:aditya.lodhi.cd.civ19@itbhu.ac.in)
@@ -26,7 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
