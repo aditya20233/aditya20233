@@ -2,7 +2,7 @@
 <h3 align="center">This is Aditya</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />](https://www.linkedin.com/in/aditya-lodhi-bb2212189/)
-[<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="25px">](mailto:aditya.lodhi.cd.civ19@itbhu.ac.in)
+[<img alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="25px">](mailto:aditya.lodhi.cd.civ19@itbhu.ac.in)
 <!-- [<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/adityalodhi/) -->
 <br>
 
