@@ -47,6 +47,6 @@
 
 <p align="center"> 
 	<a href="https://github.com/aditya20233"><img src="https://komarev.com/ghpvc/?username=aditya20233" alt="aditya lodhi"/></a>
-	<a href="https://github.com/aditya20233?tab=repositories"><img src="https://badges.pufler.dev/repos/aditya20233" alt="aditya lodhi" /> </a>
+<!-- 	<a href="https://github.com/aditya20233?tab=repositories"><img src="https://badges.pufler.dev/repos/aditya20233" alt="aditya lodhi" /> </a> -->
 	<img src="https://img.shields.io/github/stars/aditya20233?label=Stars" alt="Total Stars">
 </p>
